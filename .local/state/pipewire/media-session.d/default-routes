@@ -1,0 +1,4 @@
+{
+ "default.route.alsa_card.pci-0000_02_02.0:profile:off": [ ],
+ "default.route.alsa_card.pci-0000_02_02.0:profile:output:analog-stereo+input:analog-stereo": [ ]
+}

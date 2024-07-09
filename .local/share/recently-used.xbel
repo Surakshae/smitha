@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kali/Desktop/spoof.cap" added="2024-04-23T09:47:20.729827Z" modified="2024-04-23T10:16:14.590151Z" visited="2024-04-23T09:47:20.729828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.tcpdump.pcap"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2024-04-23T10:03:09.379666Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;wireshark %f&apos;" modified="2024-04-23T10:12:27.223503Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-23T10:16:14.590150Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kali/Desktop/spoof" added="2024-04-23T10:13:04.116195Z" modified="2024-04-23T10:14:15.730061Z" visited="2024-04-23T10:13:04.116195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2024-04-23T10:13:04.116196Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-23T10:14:15.730060Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/share/bettercap/caplets/hstshijack/hstshijack.cap" added="2024-04-23T10:31:35.468810Z" modified="2024-04-23T11:51:46.909935Z" visited="2024-04-23T10:31:35.468811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.tcpdump.pcap"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;leafpad %f&apos;" modified="2024-04-23T10:57:20.944828Z" count="3"/>
+          <bookmark:application name="Leafpad" exec="&apos;leafpad %u&apos;" modified="2024-04-23T11:51:46.909933Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/share/bettercap/caplets/hstshijack/hstshijack.cap.bak2" added="2024-04-23T10:32:26.497349Z" modified="2024-04-23T10:32:26.497351Z" visited="2024-04-23T10:32:26.497349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2024-04-23T10:32:26.497350Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
